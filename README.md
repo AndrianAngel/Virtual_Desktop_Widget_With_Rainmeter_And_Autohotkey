@@ -16,9 +16,19 @@ You also get a built-in GUI to customize the widget's appearance—choose your f
 
 😎 Widget 😎
 
+1- Current_desktop.txt path
+
 ![A1 Settings](Images/A1.png)
+
+2 - Demo
+
 ![A2 Settings](Images/A2.png)
+
+3 - Demo
+
 ![A3 Settings](Images/A3.png)
+
+4 - Demo
 ![A4 Settings](Images/A4.png)
 
 ---
