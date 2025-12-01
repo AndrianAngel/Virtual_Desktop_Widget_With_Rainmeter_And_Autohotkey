@@ -13,12 +13,13 @@ You also get a built-in GUI to customize the widget's appearance—choose your f
 
 🖼️ Screenshots
 
-| Preview | Description |
-|--------|-------------|
-| !A1 | Path of current_desktop.txt|
-| !A2 | Settings GUI for customizing color, font size, and weight |
-| !A3 | Rainmeter skin displaying desktop number |
-| !A4 | Screenshot Demo |
+
+😎 Widget 😎
+
+![A1 Settings](Images/A1.png)
+![A2 Settings](Images/A2.png)
+![A3 Settings](Images/A3.png)
+![A4 Settings](Images/A4.png)
 
 ---
 
