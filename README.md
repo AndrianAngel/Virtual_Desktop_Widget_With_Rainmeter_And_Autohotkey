@@ -92,3 +92,13 @@ You also get a built-in GUI to customize the widget's appearance—choose your f
 💡 Why This Project?
 
 Windows Virtual Desktops are powerful—but invisible. This widget makes them visible, interactive, and customizable, bridging the gap between automation and aesthetics.
+
+---
+
+😎😎 Overview Demo 😎😎
+
+---
+
+![Virtual.Desktop.Live.gif Settings](Images/Virtual.Desktop.Live.gif)
+
+---
