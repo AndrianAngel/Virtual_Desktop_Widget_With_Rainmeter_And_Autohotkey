@@ -134,3 +134,10 @@ Windows Virtual Desktops are powerful—but invisible. This widget makes them vi
 ![Virtual.Desktop.Live.gif Settings](Images/Virtual.Desktop.Live.gif)
 
 ---
+## 🌿 Make sure to choose the right version according to your OS 🌿
+
+- 📜 While both work on Win10/11, the v2 library provides a significantly better experience on Windows 11 due to its modern API integration 🙂 : 🌱 Virtual.Desktop.Switcher.Windows11.10.AHKV2.zip 🌱
+
+- 📣 Stay on Virtual.Desktop.3.0 if you're using Windows 10 (AHKV1 Library) : 👉 Virtual.Desktop.Widget.Rainmeter.3.0.Stable.Release.zip 👈
+
+___
