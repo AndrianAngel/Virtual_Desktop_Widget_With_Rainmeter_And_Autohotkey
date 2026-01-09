@@ -31,9 +31,9 @@ ___
 
 🌐 Virtual Desktop Widget with Rainmeter & AutoHotkey
 
-🌿 Version 3.0 – Stable Release 🌿
-👀 AHKV1 LIBRARY 👉 WIN 10
-🌹 Created by AndrianAngel 🌹
+- 🌿 Version 3.0 – Stable Release 🌿
+## 👀 AHKV1 LIBRARY 👉 WIN 10
+- 🌹 Created by AndrianAngel 🌹
 
 🧠 Overview
 
