@@ -1,3 +1,34 @@
+___
+
+## 🎁 Virtual Desktop Switcher for Windows 11 & 10 🖥️
+
+A powerful AutoHotkey script that adds keyboard shortcuts for managing Windows virtual desktops with visual feedback through Rainmeter integration.
+___
+
+## About VD.ahk Library 📚
+
+VD.ahk is an AutoHotkey v2 library that provides direct access to Windows' Virtual Desktop APIs. It's specifically optimized for Windows 11 because:
+
+- ✨ Native Windows 11 Support - Built using the modern Virtual Desktop COM interfaces that Windows 11 relies on
+- ⚡ Better Performance - AHK v2 offers faster execution and lower overhead than v1
+- 🔧 Modern Architecture - Cleaner, more maintainable codebase aligned with Windows 11's desktop management system
+- 🛡️ Enhanced Stability - More reliable desktop switching and window management on Windows 11
+
+___
+
+Why Windows 11? (Though Windows 10 Still Works) 🤔
+- While this tool functions on Windows 10, it's designed with Windows 11 in mind because:
+- Windows 11 has a redesigned Virtual Desktop system with different API implementations
+- The v2 library handles Windows 11's desktop management more gracefully
+- Future Windows updates will focus on Win11+ compatibility
+- AHK v2 itself has better compatibility with modern Windows features
+
+___
+
+The older V3 version (from the GitHub link) uses AutoHotkey v1, which lacks the modern API access methods that make virtual desktop management smoother and more reliable on Windows 11 🙂
+
+___
+
 🌐 Virtual Desktop Widget with Rainmeter & AutoHotkey
 
 🌿 Version 3.0 – Stable Release 🌿
