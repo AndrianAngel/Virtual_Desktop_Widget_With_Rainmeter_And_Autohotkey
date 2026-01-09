@@ -5,7 +5,7 @@ ___
 A powerful AutoHotkey script that adds keyboard shortcuts for managing Windows virtual desktops with visual feedback through Rainmeter integration.
 ___
 
-## About VD.ahk Library 📚
+## About VD.ahk Library 📚 (AHKV2 LIBRARY 👉 WIN 11)
 
 VD.ahk is an AutoHotkey v2 library that provides direct access to Windows' Virtual Desktop APIs. It's specifically optimized for Windows 11 because:
 
@@ -32,6 +32,7 @@ ___
 🌐 Virtual Desktop Widget with Rainmeter & AutoHotkey
 
 🌿 Version 3.0 – Stable Release 🌿
+👀 AHKV1 LIBRARY 👉 WIN 10
 🌹 Created by AndrianAngel 🌹
 
 🧠 Overview
